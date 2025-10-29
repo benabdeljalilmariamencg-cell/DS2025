@@ -1,8 +1,9 @@
 # COURS DE SCIENCE DES DONNÉES
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
-<img src=" style="height:464px;margin-right:432px"/>
+<img src="encc.jpg" style="height:464px;margin-right:432px"/>
+
 ---
-encc.jpg
+
 
 #Mariam Benabddeljalil
 
