@@ -2,6 +2,8 @@
 ## École Nationale de Commerce et de Gestion (ENCG) - 4ème Année
 
 #Mariam Benabddeljalil
+
+<img src="WhatsApp Image 2025-10-29 at 16.13.44.jpeg" style="height:464px;margin-right:432px"/>
 ---
 
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
